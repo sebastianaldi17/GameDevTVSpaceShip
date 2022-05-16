@@ -60,5 +60,6 @@ public class Movement : MonoBehaviour
         rb.freezeRotation = true; // manually rotate rocket
         transform.Rotate(Vector3.forward * rotationSpeed * Time.deltaTime * direction);
         rb.freezeRotation = false;
+        rb.constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezePositionZ;
     }
 }
