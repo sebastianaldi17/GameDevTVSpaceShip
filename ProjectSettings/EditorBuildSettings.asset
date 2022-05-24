@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Static Objects.unity
     guid: e2b578907bc32d841b9c2a0d83bb1702
   - enabled: 1
+    path: Assets/Scenes/Moving Finish.unity
+    guid: b635eabf0ac2fc348a3d8814a5ded87d
+  - enabled: 1
     path: Assets/Scenes/Moving Objects.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Climbing Objects.unity
+    guid: 0c2132fab1c38d644822080c0d2f5097
   m_configObjects: {}
