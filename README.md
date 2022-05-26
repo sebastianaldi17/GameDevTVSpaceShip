@@ -15,7 +15,6 @@ I plan on continuing through the other sections of the course, but if I do decid
 
 ### Quality of Life
 - Main menu, this is important!
-- More lighting, some places are too dim
 ### Aesthetics
 - Stars on the sky, instead of pure black skybox
 - Jagged background
